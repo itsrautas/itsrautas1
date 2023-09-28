@@ -54,6 +54,11 @@
 			padding-right: 70px;
                         border-bottom: 1px solid #634ceb;
 		}
+                li:hover{
+			background: #1c1919;
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
 		footer{
 			background: #0000008c;
 		        margin-top: 60px;
